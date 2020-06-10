@@ -1,6 +1,7 @@
 1a. Process Models; Evolution and Rationale
 Introduction
-A software process model is an abstract representation of the entire software process (Rupinder and Jyotsna, 2011). “In software development, process models are implemented to manage various concerns associated with cost, time, quality and changing requirements of clients” (Rupinder and Jyotsna, 2011). 
+A software process model is an abstract representation of the entire software process (Rupinder and Jyotsna, 2011). “In software development, process models are implemented to manage various concerns associated with cost, time, quality and changing requirements of clients” (Rupinder and Jyotsna, 2011). “In software development, process models are implemented to manage various concerns associated with cost, time, quality and changing requirements of clients” (Rupinder and Jyotsna, 2011). The development life cycle of any software is made up of four main stages namely Requirement Analysis, Software Design, Coding and Testing (Azam, et al., 2010).
+
 
 
 Waterfall Model 
