@@ -5,4 +5,4 @@ A software process model is an abstract representation of the entire software pr
 
 
 Waterfall Model
-Before the Waterfall model, there was no documented means of managing large software development and this led to the high cost of computing as programmers formed a tradition of carrying out hardware concepts such as "measure twice, cut once" before running the code in order to save time. 
+Before the Waterfall model, there was no documented means of managing large software development and this led to the high cost of computing as programmers formed a tradition of carrying out hardware concepts such as "measure twice, cut once" before running the code in order to save time. It’s called the “waterfall model” because its pictorial view resembles a cascade of waterfall with the output of each phase serving as an input into the next.
